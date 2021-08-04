@@ -1,6 +1,6 @@
 package main
 import (
-"https://github.com/golang/tour"
+"golang.org/x/tour"
 "fmt"
 )
 
